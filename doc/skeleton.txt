@@ -1,6 +1,6 @@
 *skeleton.txt*	Skeleton for newly created buffers
 
-Version 0.0.2
+Version 0.0.3
 Script ID: 2291
 Copyright (C) 2008 kana <http://whileimautomaton.net/>
 License: MIT license  {{{
@@ -133,6 +133,10 @@ BUGS						*skeleton-bugs*
 
 ==============================================================================
 CHANGELOG					*skeleton-changelog*
+
+0.0.3	2012-03-24T14:22:06+09:00		*skeleton-changelog-0.0.3*
+	- Refine the document a bit.
+	- Refine the internal structure a bit.
 
 0.0.2	2009-03-17T01:16:29+09:00		*skeleton-changelog-0.0.2*
 	- Refine the document.
